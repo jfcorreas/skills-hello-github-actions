@@ -7,7 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Hello GitHub Actions
+# Hello GitHub Actions ![MuaKissGIF](https://github.com/jfcorreas/skills-hello-github-actions/assets/5447753/342245f3-f1e0-435e-8fda-60510a275d63)
+
 
 _Create a GitHub Action and use it in a workflow._
 
